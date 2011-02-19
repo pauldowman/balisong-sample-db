@@ -1,4 +1,5 @@
 {
     "title": "Foo for thought",
-    "categories": [ "Foo", "Something Special", "Bar" ]
+    "categories": [ "Foo", "Something Special", "Bar" ],
+    "site_menu_position": 1
 }
