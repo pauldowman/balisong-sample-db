@@ -17,6 +17,10 @@ Here is some sample Ruby code:
 
 {{sample.rb | code(ruby)}}
 
+Here is some Ruby code with only specified lines being rendered:
+
+{{sample.rb | code(ruby, 2-4)}}
+
 Here is some plain text:
 
 {{something.txt | text}}
