@@ -1,0 +1,80 @@
+[
+  [
+    "title",
+    [
+      [
+        "A post",
+        [
+          "2010-08-03-first-post"
+        ]
+      ],
+      [
+        "Another post",
+        [
+          "2010-08-04-second-post"
+        ]
+      ],
+      [
+        "bar none",
+        [
+          "bar"
+        ]
+      ],
+      [
+        "Foo for thought",
+        [
+          "foo"
+        ]
+      ]
+    ]
+  ],
+  [
+    "categories",
+    [
+      [
+        [
+          "posts"
+        ],
+        [
+          "2010-08-03-first-post",
+          "2010-08-04-second-post"
+        ]
+      ],
+      [
+        [
+          "bar"
+        ],
+        [
+          "bar"
+        ]
+      ],
+      [
+        [
+          "Foo",
+          "Something Special",
+          "Bar"
+        ],
+        [
+          "foo"
+        ]
+      ]
+    ]
+  ],
+  [
+    "site_menu_position",
+    [
+      [
+        2,
+        [
+          "bar"
+        ]
+      ],
+      [
+        1,
+        [
+          "foo"
+        ]
+      ]
+    ]
+  ]
+]
